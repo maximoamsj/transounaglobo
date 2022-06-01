@@ -1,0 +1,1 @@
+worker: transounaglobo.py
